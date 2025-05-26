@@ -14,7 +14,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/qna")
-@SecurityRequirement(name = "BearerAuth")  // Require JWT for access
+@SecurityRequirement(name = "BearerAuth")
 public class QnAController {
 
     private final DocumentService documentService;
