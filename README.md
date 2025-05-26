@@ -103,13 +103,4 @@ This interface allows you to explore and test all available API endpoints.
 - `POST /auth/login`: For User login
 - `POST /api/documents/upload`: For uploading documents
 
-> Replace `[Description]` with the actual purpose of each endpoint.
-
-## Troubleshooting
-- Spring Boot documentation: https://docs.spring.io/spring-boot/docs/current/reference/html/
-- Spring Framework documentation: https://docs.spring.io/spring/docs/current/spring-framework-reference/
-- Project issue tracker: https://github.com/your-username/your-repo-name/issues
-
-## License
-[Specify your license here]
 
